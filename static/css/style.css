@@ -1,0 +1,15 @@
+
+.table-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+    width: 80%;
+    border-collapse: collapse;
+    background-color: #343a40;
+    color: white;
+    text-align: center; /* Left-align column headers */
+    padding: 50px;
+}
+
+
